@@ -1,5 +1,5 @@
 const createCard = () => {
   const card = document.createElement('div');
-  const cfronard = document.createElement('div');
-  const card = document.createElement('div');
+  const front = document.createElement('div');
+  const back= document.createElement('div');
 }
