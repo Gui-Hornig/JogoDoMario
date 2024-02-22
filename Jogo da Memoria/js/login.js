@@ -20,4 +20,4 @@ window.location ='pages/game.html';
 input.addEventListener("input", validateInput);
 form.addEventListener("submit", handleSubmit);
 
-const
+const inputset = document
