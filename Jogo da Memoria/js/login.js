@@ -20,4 +20,4 @@ window.location ='pages/game.html';
 input.addEventListener("input", validateInput);
 form.addEventListener("submit", handleSubmit);
 
-const inputset = document.querySelector("")
+const inputset = document.querySelector("Login=selector")
