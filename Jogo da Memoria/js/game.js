@@ -1,4 +1,4 @@
-cosnt grid = document.querySelector('.grid');
+const grid = document.querySelector('.grid');
 
 
 const createCard = () => {
@@ -12,4 +12,8 @@ const createCard = () => {
 
   card.appendChild(front);
   card.appendChild(back);
+
+  grid.appendChild(card)
 }
+
+createCard();
