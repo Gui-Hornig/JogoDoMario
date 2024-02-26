@@ -40,21 +40,7 @@ const loadGame = () => {
 };
 loadGame();
 
-("ACOM");
-("Galaxy Inform�tica ");
-("02/02/2024");
-("02/02/2024");
-("08/02/2024");
-("22/02/2024");
-("Comiss�o cobrada sobre a venda");
-("02-1023999104");
-("201023999104001");
-("Comissao");
-("Liberado");
-("-20,38");
-("a vista");
-("Semanal");
-("ACOM");
+
 ("Galaxy Inform�tica ");
 ("02/02/2024");
 ("02/02/2024");
